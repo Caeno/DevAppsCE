@@ -10,10 +10,14 @@ Aqui também reuniremos referências para sites, conteúdos e ferramentas comple
 As disciplinas são identificadas por seus códigos:
 * **DISC02**: Ferramentas e Ambientes de Desenvolvimento
 	* [Download dos Slides](Disciplinas/DISC02-Ferramentas/Slides/DISC02-Slides.pdf)
+	* Práticas:
+		* Meu primeiro App em Android ([material](http://bit.ly/ce-android-studio) | [código fonte](Disciplinas/DISC02-Ferramentas/Practices/Sources/Android/MyFirstApp))
+		* Meu primero App em iOS ([material](http://bit.ly/ce-xcode) | [código fonte](Disciplinas/DISC02-Ferramentas/Practices/Sources/iOS/MyFirstApp))
 * **DISC03**: Introdução a Programação
 	* [Download dos Slides](Disciplinas/DISC03-Programacao/Slides/DISC03-Slides.pdf)
 
 ## Exemplos de Código
 
+* [Projeto Java com Códigos de Exemplo da aula de Introdução a Programação](Source/Java/DISC03-Samples)
 * [Playground Swift com Demo da Primeira aula de Introdução a Programação](Source/Swift%20Playgrounds/DemoProgramacao.playground)
 * [Playground Swift com Códigos de Exemplo da aula de Introdução a Programação](Source/Swift%20Playgrounds/DISC03-Samples.playground)

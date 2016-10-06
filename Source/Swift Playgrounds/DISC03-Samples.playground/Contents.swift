@@ -46,7 +46,7 @@ default:
 
 /*:
  ### Estruturas de Repetição - Loop for
- No exemplo abaixo usamos o loop **for...in** do Swift para listar as tabuadas de 2 a 9. São empregados dois loops _aninhados_ de forma que o mais esterno repete o interno partindo no número 2 até o número 9. O loop interno por sua vez passa pelos números de 1 a 10, multiplicando eles pelo número representando a tabuada atual.
+ No exemplo abaixo usamos o loop **for...in** do Swift para listar as tabuadas de 2 a 9. São empregados dois loops _aninhados_ de forma que o mais externo repete o interno partindo no número 2 até o número 9. O loop interno por sua vez passa pelos números de 1 a 10, multiplicando eles pelo número representando a tabuada atual.
  */
 // Loop externo, usando um Range começara com o número 2 até o 9.
 for tabuada in 2...9 {
@@ -83,7 +83,7 @@ print("\(fatorial)! = \(resultado)")
 
 
 /*:
- ### Rotinas - Declarando e criando funções
+ ### Rotinas - Declarando e Usando funções
  No exemplo abaixo usamos a capacidade de declarar funções no Swift para criar uma rotina capaz de somar dois números e retornar seu valor. A rotina é então utilizada para realizar duas operações de soma distintas.
  */
 // Declaração da função
