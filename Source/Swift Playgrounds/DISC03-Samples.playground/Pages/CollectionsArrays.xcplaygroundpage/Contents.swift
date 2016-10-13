@@ -1,4 +1,4 @@
-//: [Página Anterior](@previous) | [Próxima Página](@next)
+//: [Indice](Main) | [Página Anterior](@previous) | [Próxima Página](@next)
 
 /*:
  ### Arrays - Declarando e Usando Arrays

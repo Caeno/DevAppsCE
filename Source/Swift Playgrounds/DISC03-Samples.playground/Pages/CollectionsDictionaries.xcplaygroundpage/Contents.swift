@@ -1,4 +1,4 @@
-//: [Página Anterior](@previous)
+//: [Indice](Main) | [Página Anterior](@previous)
 
 /*:
  ### Dicionários - Declarando e Usando Dicionários

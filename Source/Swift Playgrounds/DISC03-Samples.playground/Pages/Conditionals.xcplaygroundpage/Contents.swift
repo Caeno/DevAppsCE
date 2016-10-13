@@ -1,4 +1,4 @@
-//: [Página Anterior](@previous) | [Próxima Página](@next)
+//: [Indice](Main) | [Próxima Página](@next)
 
 /*:
  ### Condicionais - Usando if
