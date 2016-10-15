@@ -35,6 +35,20 @@ Uma série de exercícios para prática e fixação dos conteúdos apresentados 
 
 12. Construa um programa que carregue o valor da cotação do dólar e um valor em reais em variáveis, e calcule o valor convertido para dólar.
 
-10. Construa um programa que converta uma determinada temperatura em Celsius para Fahrenheit.
+13. Construa um programa que converta uma determinada temperatura em Celsius para Fahrenheit.
 
-11. Construa um programa que recebe o peso de uma pessoa em quilogramas e converte para libras.
+14. Construa um programa que recebe o peso de uma pessoa em quilogramas e converte para libras.
+
+15. Escreva um programa que carrega uma lista com 10 ou mais elementos e os escreva em ordem contrária.
+
+16. Faça um programa que carregue duas listas, e apresente a diferença entre seus elementos.
+
+17. Elabore um programa para registro de uma pequena biblioteca com 20 livros, contendo as seguintes informações: titulo, autor, editora, edição, e ano. Ao final do programa imprima a lista em ordem crescente por nome do titulo.
+
+18. Escreva um programa que leia um nome e apresente as letras que se encontram nas posições pares.
+
+19. Construa um programa que leia uma palavra e escreva ela de trás para frente. Verifique se a palavra é um palíndromo (ou seja, elas podem ser lidas da esquerda para a direita ou da direita para a esquerda).
+
+20. Elabore uma rotina que receba como parâmetros dois números positivos, e calcule retornando a soma dos N números inteiros existentes entre eles.
+
+21. Construa duas funções que receba um nome, a primeira deve retornar o número de vogais e a segunda o número de consoantes.
