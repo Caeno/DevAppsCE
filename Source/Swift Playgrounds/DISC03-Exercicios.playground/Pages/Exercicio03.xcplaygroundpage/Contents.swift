@@ -1,12 +1,10 @@
 /*:
- ## Exercício 03 - Escreva um programa para calcular e apresentar a raiz quadrada de um número carregado em uma variável.
+ ### Exercício 03
+ Escreva um programa para calcular e apresentar a raiz quadrada de um número carregado em uma variável.
  
- Opções:
+ [Índice](Index) | [Exercício Anterior](@previous) | [Próximo Exercício](@next)
  
- * [Retornar ao Exercício Anterior](@previous)
- * [Avançar para o Próximo exercício](@next)
- 
- >Para esse exercício é necessário importar o Framework *Foundation*, que contém a função **_sqrt()_** (Square Root) para cálculo da raiz quadrada.
+ >**Atenção**: Para esse exercício é necessário importar o Framework *Foundation*, que contém a função **_sqrt()_** (Square Root) para cálculo da raiz quadrada.
  */
 
 import Foundation

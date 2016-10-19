@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
+        <page name='Index'/>
         <page name='Exercicio01'/>
         <page name='Exercicio02'/>
         <page name='Exercicio03'/>
         <page name='Exercicio04'/>
         <page name='Exercicio05'/>
+        <page name='Exercicio06'/>
+        <page name='Exercicio07'/>
+        <page name='Exercicio08'/>
+        <page name='Exercicio09'/>
+        <page name='Exercicio10'/>
+        <page name='Exercicio11'/>
+        <page name='Exercicio12'/>
+        <page name='Exercicio13'/>
+        <page name='Exercicio14'/>
+        <page name='Exercicio15'/>
+        <page name='Exercicio16'/>
+        <page name='Exercicio17'/>
+        <page name='Exercicio18'/>
+        <page name='Exercicio19'/>
+        <page name='Exercicio20'/>
+        <page name='Exercicio21'/>
     </pages>
 </playground>

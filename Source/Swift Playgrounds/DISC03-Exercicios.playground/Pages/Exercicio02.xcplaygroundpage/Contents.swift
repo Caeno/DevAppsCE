@@ -1,12 +1,10 @@
 /*:
- ## Exercício 02 - Escrever um programa que carregue quatro números inteiros em variáveis distintas e calcule a média aritmética entre eles apresentando no final.
+ ### Exercício 02
+ Escrever um programa que carregue quatro números inteiros em variáveis distintas e calcule a média aritmética entre eles apresentando no final.
  
  Apresentamos 4 propostas para resolver esse exercício, duas usando um número pré-determinado de variáveis, e outras duas usando um número dinamico dinâmico a partir de um Array (lista).
  
- Opções:
- 
- * [Retornar ao Exercício Anterior](@previous)
- * [Avançar para o Próximo exercício](@next)
+ [Índice](Index) | [Exercício Anterior](@previous) | [Próximo Exercício](@next)
  */
 
 import Foundation

@@ -1,10 +1,8 @@
 /*:
- ## Exercício 04 - Escreva um programa que mostre o antecessor e o sucessor de um número inteiro carregado em uma variável.
+ ### Exercício 04
+ Escreva um programa que mostre o antecessor e o sucessor de um número inteiro carregado em uma variável.
 
- Opções:
- 
- * [Retornar ao Exercício Anterior](@previous)
- * [Avançar para o Próximo exercício](@next)
+ [Índice](Index) | [Exercício Anterior](@previous) | [Próximo Exercício](@next)
  */
 
 import Foundation

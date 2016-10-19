@@ -1,9 +1,8 @@
 /*:
- ## Exercício 05 - Formule um programa que declare cinco números e conte quantos deles são negativos.
+ ### Exercício 05
+ Formule um programa que declare cinco números e conte quantos deles são negativos.
  
- Opções:
- 
- * [Retornar ao Exercício Anterior](@previous)
+ [Índice](Index) | [Exercício Anterior](@previous) | [Próximo Exercício](@next)
  */
 
 import Foundation

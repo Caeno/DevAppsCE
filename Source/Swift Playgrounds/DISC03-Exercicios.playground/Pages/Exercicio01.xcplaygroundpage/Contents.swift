@@ -1,9 +1,8 @@
 /*:
- ## Exercício 01 - Escrever um programa que carregue o nome de uma pessoa em uma variável e imprima a mensagem: “Bem-vindo ao curso de Criação de Apps, _NomePessoa_“
+ ### Exercício 01
+ Escrever um programa que carregue o nome de uma pessoa em uma variável e imprima a mensagem: “Bem-vindo ao curso de Criação de Apps, _NomePessoa_“
  
- Opções:
- 
- * [Avançar para o Próximo exercício](@next)
+ [Índice](Index) | [Exercício Anterior](@previous) | [Próximo Exercício](@next)
  */
 
 import Foundation
