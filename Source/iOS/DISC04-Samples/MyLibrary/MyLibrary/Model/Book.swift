@@ -2,7 +2,7 @@
 //  Book.swift
 //  MyLibrary
 //
-//  Created by Hakan Satya on 21/10/16.
+//  Created by Rafael Veronezi on 21/10/16.
 //  Copyright © 2016 Caeno. All rights reserved.
 //
 
@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 
 /**
-    Representa um Livro
+ Estrutura representa as informações de um Livro.
  */
 struct Book {
     
@@ -38,7 +38,10 @@ struct Book {
 }
 
 /**
-    Adiciona funcionalidades a estrutura "Book".
+ Adiciona funcionalidades a estrutura "Book".
+ 
+ - note:
+ Extensões são um recurso do Swift que permitem incluir funcionalidades (como propriedades, métodos e implementação de protocolos) a classes e structs existentes.
  */
 extension Book {
     

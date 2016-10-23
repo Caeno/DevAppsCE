@@ -2,14 +2,14 @@
 //  DataSource.swift
 //  MyLibrary
 //
-//  Created by Hakan Satya on 21/10/16.
+//  Created by Rafael Veronezi on 21/10/16.
 //  Copyright © 2016 Caeno. All rights reserved.
 //
 
 import UIKit
 
 /**
-    Representa uma fonte de dados para o Projeto.
+ Representa uma fonte de dados para o Projeto.
  */
 class DataSource {
 
