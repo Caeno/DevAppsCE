@@ -22,6 +22,7 @@ As disciplinas são identificadas por seus códigos:
 	* Práticas
 		* [App Calculator](Source/iOS/DISC04-Samples/Calculator): Aplicativo de Calculadora.
 		* [App MyLibrary](Source/iOS/DISC04-Samples/MyLibrary): Aplicativo de Biblioteca pessoal.
+		* [App Na Mira](Source/iOS/DISC04-Samples/NaMira): Exemplo de jogo Simples para iOS usando apenas componentes básicos. Quanto mais próximo você chegar da mira maior usa pontuação! 😊
 
 
 ## Exemplos de Código
@@ -30,6 +31,12 @@ Acesse os exemplos de códigos explorados ao longo do curso:
 * [Projeto Java com Códigos de Exemplo da aula de Introdução a Programação](Source/Java/DISC03-Samples)
 * [Playground Swift com Demo da Primeira aula de Introdução a Programação](Source/Swift%20Playgrounds/DemoProgramacao.playground)
 * [Playground Swift com Códigos de Exemplo da aula de Introdução a Programação](Source/Swift%20Playgrounds/DISC03-Samples.playground)
+
+## Links Úteis
+
+* [IBM Swift Sandbox](https://swiftlang.ng.bluemix.net/#/repl): Um ambiente online semelhante aos Playgrounds do Xcode para criar programas em Swift. Uma excelente ferramenta de estudo que pode ser usada em qualquer computador.
+* [Java Online](https://www.tutorialspoint.com/compile_java_online.php): Permite criar programas de Console para Java totalmente online.
+* [Swift Pocket Reference](http://www.oreilly.com/programming/free/swift-pocket-reference.csp): Um excelente guia de referência para Swift no formato de eBook.
 
 ## Mailing Lists
 Abaixo listamos alguns Mailings Lists relacionados a desenvolvimento que você pode assinar para receber novidades:
