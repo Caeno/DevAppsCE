@@ -17,6 +17,8 @@ As disciplinas são identificadas por seus códigos:
 	* Práticas
 		* [Lista de Exercícios](Disciplinas/DISC03-Programacao/README.md)
 		* [Código Fonte dos Exercícios em Swift](Source/Swift%20Playgrounds/DISC03-Exercicios.playground)
+	* [Video do Keynote do WWDC 2016](https://developer.apple.com/videos/play/wwdc2016/101/): aqui você pode assistir o Keynote completo do Worldwide Developers Conference da Apple, que é onde foi obtido o video dedicado aos desenvolvedores apresentado em sala de aula, que pode ser visto a partir de 1:55:30.
+	* [Video "Por que aprender a programar?" (Legendado)](https://www.youtube.com/watch?v=mHW1Hsqlp6A): Link para o video _Por que aprender a programar?_ apresentado em sala.
 * **DISC04**: Criação de Apps para iOS
 	* [Download dos Slides](Disciplinas/DISC04-iOS/Slides/DISC04-Slides.pdf)
 	* Práticas
@@ -32,11 +34,17 @@ Acesse os exemplos de códigos explorados ao longo do curso:
 * [Playground Swift com Demo da Primeira aula de Introdução a Programação](Source/Swift%20Playgrounds/DemoProgramacao.playground)
 * [Playground Swift com Códigos de Exemplo da aula de Introdução a Programação](Source/Swift%20Playgrounds/DISC03-Samples.playground)
 
-## Links Úteis
+## Ferramentas e Referências
 
-* [IBM Swift Sandbox](https://swiftlang.ng.bluemix.net/#/repl): Um ambiente online semelhante aos Playgrounds do Xcode para criar programas em Swift. Uma excelente ferramenta de estudo que pode ser usada em qualquer computador.
-* [Java Online](https://www.tutorialspoint.com/compile_java_online.php): Permite criar programas de Console para Java totalmente online.
-* [Swift Pocket Reference](http://www.oreilly.com/programming/free/swift-pocket-reference.csp): Um excelente guia de referência para Swift no formato de eBook.
+* [**IBM Swift Sandbox**](https://swiftlang.ng.bluemix.net/#/repl): Um ambiente online semelhante aos Playgrounds do Xcode para criar programas em Swift. Uma excelente ferramenta de estudo que pode ser usada em qualquer computador.
+* [**Java Online**](https://www.tutorialspoint.com/compile_java_online.php): Permite criar programas de Console para Java totalmente online.
+* [**MacInCloud**](http://www.macincloud.com): com o MacInCloud você consegue acessar remotamente um computador com macOS através do Windows, sendo uma excelente ferramenta para seus estudos.
+* [](): 
+* [**Livros gratuitos de Programação da O'Reilly**](http://www.oreilly.com/programming/free/): uma coleção de eBooks gratuitos publicados pela editora O'Reilly dos Estados Unidos, especializada em publicações de tecnologia. Apesar de estarem em inglês são livros curtos e de fácil leitura, focados em assuntos específicos. Algumas recomendações:
+	* [**Object Oriented vs. Functional Programming**](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp?intcmp=il-prog-free-product-lgen_oo_v_fp): um ótimo material explicando de maneira rápida e objetiva como funcionam as abordagens de programação Orientada a Objetos e programação Funcional, comparando elas e trazendo suas particularidades e semelhanças.
+	* [**Java: The Legend**](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp?intcmp=il-prog-free-product-lgen_oo_v_fp): um livro dedicado a contar a história do Java, como ele surgiu, quais foram suas motivações como ele evoluiu e se tornou hoje uma das linguagens mais utilizadas no mercado de tecnologia. Ótima referencia para os futuros programadores Android.
+	* [**Swift Pocket Reference**](http://www.oreilly.com/programming/free/swift-pocket-reference.csp): um excelente guia de referência para Swift no formato de eBook.
+	* [**Open Source in Brazil**](http://www.oreilly.com/programming/free/open-source-in-brazil.csp): um livro destinado a explicar porque o Open Source tem tido destaque no Brasil.
 
 ## Mailing Lists
 Abaixo listamos alguns Mailings Lists relacionados a desenvolvimento que você pode assinar para receber novidades:
