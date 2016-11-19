@@ -25,7 +25,11 @@ As disciplinas são identificadas por seus códigos:
 		* [App Calculator](Source/iOS/DISC04-Samples/Calculator): Aplicativo de Calculadora.
 		* [App MyLibrary](Source/iOS/DISC04-Samples/MyLibrary): Aplicativo de Biblioteca pessoal.
 		* [App Na Mira](Source/iOS/DISC04-Samples/NaMira): Exemplo de jogo Simples para iOS usando apenas componentes básicos. Quanto mais próximo você chegar da mira maior usa pontuação! 😊
-
+* **DISC05**: Criação de Apps para Android
+* **DISC06**: Criando Apps Conectados
+	* [Download dos Slides](Disciplinas/DISC06-AppsConectados/Slides/DISC06-Slides.pdf)
+	* Práticas
+		* [Countries para iOS (Código Inicial)](Source/Android/DISC06-Samples/Countries-Starter)
 
 ## Exemplos de Código
 Acesse os exemplos de códigos explorados ao longo do curso:
@@ -39,7 +43,6 @@ Acesse os exemplos de códigos explorados ao longo do curso:
 * [**IBM Swift Sandbox**](https://swiftlang.ng.bluemix.net/#/repl): Um ambiente online semelhante aos Playgrounds do Xcode para criar programas em Swift. Uma excelente ferramenta de estudo que pode ser usada em qualquer computador.
 * [**Java Online**](https://www.tutorialspoint.com/compile_java_online.php): Permite criar programas de Console para Java totalmente online.
 * [**MacInCloud**](http://www.macincloud.com): com o MacInCloud você consegue acessar remotamente um computador com macOS através do Windows, sendo uma excelente ferramenta para seus estudos.
-* [](): 
 * [**Livros gratuitos de Programação da O'Reilly**](http://www.oreilly.com/programming/free/): uma coleção de eBooks gratuitos publicados pela editora O'Reilly dos Estados Unidos, especializada em publicações de tecnologia. Apesar de estarem em inglês são livros curtos e de fácil leitura, focados em assuntos específicos. Algumas recomendações:
 	* [**Object Oriented vs. Functional Programming**](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp?intcmp=il-prog-free-product-lgen_oo_v_fp): um ótimo material explicando de maneira rápida e objetiva como funcionam as abordagens de programação Orientada a Objetos e programação Funcional, comparando elas e trazendo suas particularidades e semelhanças.
 	* [**Java: The Legend**](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp?intcmp=il-prog-free-product-lgen_oo_v_fp): um livro dedicado a contar a história do Java, como ele surgiu, quais foram suas motivações como ele evoluiu e se tornou hoje uma das linguagens mais utilizadas no mercado de tecnologia. Ótima referencia para os futuros programadores Android.
