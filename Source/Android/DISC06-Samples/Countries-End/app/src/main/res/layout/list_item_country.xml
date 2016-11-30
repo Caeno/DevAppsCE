@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp">
+
+    <com.android.volley.toolbox.NetworkImageView
+        android:id="@+id/country_flag_image_view"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginEnd="8dp"
+        android:src="@drawable/unknown_flag" />
+
+    <TextView
+        android:id="@+id/country_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_toRightOf="@id/country_flag_image_view"
+        android:layout_toEndOf="@id/country_flag_image_view"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:text="Country Placeholder" />
+
+    <TextView
+        android:id="@+id/capital_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_toRightOf="@id/country_flag_image_view"
+        android:layout_toEndOf="@id/country_flag_image_view"
+        android:layout_below="@id/country_text_view"
+        android:textSize="16sp"
+        android:text="Capital Placeholder" />
+
+</RelativeLayout>
