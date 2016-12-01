@@ -2,11 +2,12 @@
 //  CountriesViewController.swift
 //  Countries
 //
-//  Created by Hakan Satya on 19/11/16.
+//  Created by Rafael Veronezi on 19/11/16.
 //  Copyright © 2016 Caeno. All rights reserved.
 //
 
 import UIKit
+
 
 class CountriesViewController: UITableViewController {
 
@@ -37,13 +38,15 @@ class CountriesViewController: UITableViewController {
     }
 
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "CountryCell", for: indexPath)
+        let cell = tableView.dequeueReusableCell(withIdentifier: "CountryCell", for: indexPath) as! CountryViewCell
         let country = self.countryList.countries[indexPath.row]
-        
-        cell.textLabel?.text = country.name
-        cell.detailTextLabel?.text = "Capital: \(country.capital)"
+        cell.country = country
         
         return cell
+    }
+    
+    override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
+        return 80
     }
     
     //

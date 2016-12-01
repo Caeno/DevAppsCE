@@ -2,7 +2,7 @@
 //  CountryDetailsViewController.swift
 //  Countries
 //
-//  Created by Hakan Satya on 19/11/16.
+//  Created by Rafael Veronezi on 19/11/16.
 //  Copyright © 2016 Caeno. All rights reserved.
 //
 
@@ -31,6 +31,7 @@ class CountryDetailsViewController: UITableViewController {
         super.viewDidLoad()
 
         // Load data
+        
         if let country = self.country {
             self.title = country.name
             self.capitalLabel.text = country.name

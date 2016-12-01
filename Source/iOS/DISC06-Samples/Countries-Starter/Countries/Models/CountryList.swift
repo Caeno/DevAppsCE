@@ -2,17 +2,19 @@
 //  CountryList.swift
 //  Countries
 //
-//  Created by Hakan Satya on 19/11/16.
+//  Created by Rafael Veronezi on 19/11/16.
 //  Copyright © 2016 Caeno. All rights reserved.
 //
 
 import UIKit
+import SwiftyJSON
 
 class CountryList: NSObject {
     
     //
     // MARK: - Properties
     
+    static let COUNTRY_INFO_URL = URL(string: "http://api.geonames.org/countryInfoJSON?username=ravero")!
     var countries: [Country]
     
     //
