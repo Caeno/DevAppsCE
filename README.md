@@ -28,8 +28,10 @@ As disciplinas são identificadas por seus códigos:
 * **DISC05**: Criação de Apps para Android
 * **DISC06**: Criando Apps Conectados
 	* [Download dos Slides](Disciplinas/DISC06-AppsConectados/Slides/DISC06-Slides.pdf)
+	* [eBook - Meu Primeiro App Conectado](https://www.gitbook.com/book/caeno/meu-primeiro-app-conectado/details)
 	* Práticas
-		* [Countries para iOS (Código Inicial)](Source/Android/DISC06-Samples/Countries-Starter)
+		* Countries para Android ([Código Inicial](Source/Android/DISC06-Samples/Countries-Starter.zip) | [Código Completo](Source/Android/DISC06-Samples/Countries-End.zip))
+		* Countries para iOS ([Código Inicial](Source/iOS/DISC06-Samples/Countries-Starter.zip) | [Código End](Source/iOS/DISC06-Samples/Countries-End.zip))
 
 ## Exemplos de Código
 Acesse os exemplos de códigos explorados ao longo do curso:
