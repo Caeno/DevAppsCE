@@ -21,3 +21,8 @@ O marco de lançar um aplicativo mobile é algo realmente importante para todo p
         * Ferramentas
         * Implementação
         * Acompanhamento dos resultados
+
+## Recursos Didáticos
+Lista de recursos didáticos disponíveis para essa disciplina:
+
+* [**Slides das Aulas**](SLIDES%20-%20App%20Analytics.pdf)

@@ -28,3 +28,8 @@ O objetivo do módulo de design de apps e fazer com que o aluno tenha noção da
     * Material design
     * Android guidelines e screen density
     * iOS guidelines
+
+## Recursos Didáticos
+Lista de recursos didáticos disponíveis para essa disciplina:
+
+* [**Slides das Aulas**](SLIDES%20-%20Introdução%20ao%20design%20de%20apps.pdf)
