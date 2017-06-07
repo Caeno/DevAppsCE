@@ -41,7 +41,7 @@ Uma série de exercícios para prática e fixação dos conteúdos apresentados 
 
 15. Escreva um programa que carrega uma lista com 10 ou mais elementos e os escreva em ordem contrária.
 
-16. Faça um programa que carregue duas listas, e apresente a diferença entre seus elementos.
+16. Faça um programa que carregue duas listas de números inteiros. O programa deve apresentar as diferenças entre os elementos contidos em cada uma das listas, de forma a imprimir os números contidos apenas na primeira, os números apenas na segunda e os números em comum a ambas as listas.
 
 17. Elabore um programa para registro de uma pequena biblioteca com 20 livros, contendo as seguintes informações: titulo, autor, editora, edição, e ano. Ao final do programa imprima a lista em ordem crescente por nome do titulo.
 
@@ -51,4 +51,4 @@ Uma série de exercícios para prática e fixação dos conteúdos apresentados 
 
 20. Elabore uma rotina que receba como parâmetros dois números positivos, e calcule retornando a soma dos N números inteiros existentes entre eles.
 
-21. Construa duas funções que receba um nome, a primeira deve retornar o número de vogais e a segunda o número de consoantes.
+21. Construa duas funções distintas que recebam um nome como argumento um nome. A primeira deve calcular e retornar o número de vogais contidas no nome recebido. A segunda deve funcionar de maneira equivalente para contagem de consoantes.

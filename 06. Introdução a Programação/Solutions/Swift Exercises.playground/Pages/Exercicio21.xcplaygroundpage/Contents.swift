@@ -1,6 +1,6 @@
 /*:
  ### Exercício 21
- Construa duas funções que receba um nome, a primeira deve retornar o número de vogais e a segunda o número de consoantes.
+ Faça um programa que carregue duas listas de números inteiros. O programa deve apresentar as diferenças entre os elementos contidos em cada uma das listas, de forma a imprimir os números contidos apenas na primeira, os números apenas na segunda e os números em comum a ambas as listas.
  
  [Índice](Index) | [Exercício Anterior](@previous)
  >Nesse exercício exemplificamos o uso de **tuplas** (_tuples_ em inglês), que permite declarar uma variável que contém dois ou mais valores. Como nosso exemplo usa dois números como entrada (o inicial e o final do intervalo). Para evitar termos de declarar duas listas, criamos uma lista com tuplas de dois elementos, representando os números iniciais e finais.

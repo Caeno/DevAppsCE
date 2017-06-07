@@ -1,6 +1,6 @@
 /*:
  ### Exercício 16
- Faça um programa que carregue duas listas, e apresente a diferença entre seus elementos.
+ Faça um programa que carregue duas listas de números inteiros. O programa deve apresentar as diferenças entre os elementos contidos em cada uma das listas, de forma a imprimir os números contidos apenas na primeira, os números apenas na segunda e os números em comum a ambas as listas.
  
  [Índice](Index) | [Exercício Anterior](@previous) | [Próximo Exercício](@next)
  
